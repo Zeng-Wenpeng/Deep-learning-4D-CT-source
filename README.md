@@ -24,3 +24,15 @@ The VoxelMorph library (https://github.com/voxelmorph/voxelmorph) is utilized as
 - **train.py**: Main program for training the deep learning model. You can customize mesh structures, loss functions, and other parameters. During each epoch, images are outputted for alignment evaluation.
 - **test.py**: Inference script.
 - **visualise.py**: Functions for visualizing results.
+
+## 3. Requirements
+- Python 3.8
+- Pytorch 2.1
+- Keras 
+- MATLAB (for preprocessing)
+
+## 4. Acknowledgements
+We gratefully acknowledge the use of the VoxelMorph library (https://github.com/voxelmorph/voxelmorph). Their contributions significantly helped shape our work on deep learning registration models. 
+
+## 5. License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, provided that the original copyright notice and permission notice are retained in all copies or substantial portions of the code.
